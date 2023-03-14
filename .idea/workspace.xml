@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b834bf1b-d949-46d6-b226-982c004b2caa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FunWithQuizzesStudio/Checkbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FunWithQuizzesStudio/Checkbox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FunWithQuizzesStudio/MultipleChoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FunWithQuizzesStudio/MultipleChoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FunWithQuizzesStudio/TrueFalse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FunWithQuizzesStudio/TrueFalse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FunWithQuizzesStudio/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FunWithQuizzesStudio/Quiz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
