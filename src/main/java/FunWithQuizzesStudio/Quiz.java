@@ -39,7 +39,7 @@ public class Quiz {
         // loop through one question at a time
         for (Question question : questions) { // for each question in arraylist questions
             // print the question and choices for the user by calling the tostring method
-            System.out.println(questions);
+            System.out.println(question);
             // determine the correct responses
             // create an arraylist of integers
             ArrayList<Integer> correctResponses = new ArrayList<>();
